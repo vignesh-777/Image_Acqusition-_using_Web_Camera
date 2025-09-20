@@ -1,7 +1,6 @@
 # EX 02: Image_Acqusition-_using_Web_Camera
 ## NAME:vignesh R
 ## REG NO:212223240177
-## Date No:
 ## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
